@@ -10,4 +10,4 @@
 
 ```bash
 # Run application / アプリケーションの実行 / 运行程序
-python main.py
+python UnitySystemPackerchunk.py
